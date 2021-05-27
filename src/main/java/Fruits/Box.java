@@ -3,7 +3,6 @@ package Fruits;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
 public class Box<T extends Fruit> {
 
     private ArrayList<T> boxArray;

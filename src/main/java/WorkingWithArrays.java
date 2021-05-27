@@ -13,7 +13,6 @@ public class WorkingWithArrays {
         replacementArrayToArrayList(strings);
     }
 
-
     public static void replacementOfElements(List<Integer> arr) {
         int temp = arr.get(0);
         arr.set(0, arr.get(1));
