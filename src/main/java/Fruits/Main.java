@@ -18,6 +18,4 @@ public class Main {
         box2.putInBox(box3);
 
     }
-
-
 }
